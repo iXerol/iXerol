@@ -1,6 +1,6 @@
 ### Hi, I'm Xerol Wong 🌚
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ixerol&show_icons=true&count_private=true&theme=github_dark" />
+<img align="right" width="420" src="./profile/stats.svg" />
 
 Software engineer based in Tokyo. I work on and enjoy Apple platform development, developer tooling, and build workflows.
 
