@@ -1,9 +1,19 @@
-### 🌚 Xerol Wong
+### Hi, I'm Xerol Wong 🌚
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ixerol&show_icons=true&count_private=true&theme=github_dark" />
 
-😄 Hello, I'm Xerol.
+Software engineer based in Tokyo. I work on and enjoy Apple platform development, developer tooling, and build workflows.
 
-👨🏻‍🎓 Graduated in 2020 from [ZJUT](https://www.zjut.edu.cn) with Bachlor's degree, majored in Software Engineering.
+#### Things I work with
 
-📫 You can chat with me by [mail](mailto:ixerol@icloud.com), [Telegram](https://t.me/iXerol) or [Twitter DM](https://twitter.com/ixerol)。
+`Swift` / `Objective-C` / `C++` / `Rust` / `Python` / `Bazel` / `CI/CD` / `Developer Tooling` / `AI-assisted Development`
+
+#### Projects
+
+- [FragSeal](https://github.com/iXerol/FragSeal) (since 2023) - a Swift/C++ CLI for secure, chunked backups.
+- [MetallicImage](https://github.com/iXerol/MetallicImage) (2020) - an older Apple-platform image processing project. Mostly quiet now, but not necessarily gone forever.
+
+#### Also
+
+- I work comfortably in Mandarin, English, and Japanese.
+- You can reach me by [mail](mailto:ixerol@icloud.com), [Telegram](https://t.me/iXerol), or [Twitter DM](https://twitter.com/ixerol).
