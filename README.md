@@ -10,6 +10,7 @@ Software engineer based in Tokyo. I work on and enjoy Apple platform development
 
 #### Projects
 
+- [exVMs](https://github.com/iXerol/exVMs) (2026) - a Rust CLI and SwiftUI macOS app for exporting local Voice Memos recordings.
 - [FragSeal](https://github.com/iXerol/FragSeal) (since 2023) - a Swift/C++ CLI for secure, chunked backups.
 - [MetallicImage](https://github.com/iXerol/MetallicImage) (2020) - an older Apple-platform image processing project. Mostly quiet now, but not necessarily gone forever.
 
